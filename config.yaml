@@ -1,0 +1,14 @@
+baseURL: https://www.yanglyu-lab.com/
+languageCode: en-us
+title: LYU LAB
+theme: hugograyscale
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+params:
+  description: Lyu Laboratory
+Author:
+  email: yang.lyu@rutgers.edu
+  name: Yang Lyu
+Social:
+  twitter: Yang_Lyu

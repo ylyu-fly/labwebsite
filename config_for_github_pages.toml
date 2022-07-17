@@ -1,0 +1,17 @@
+baseURL = "https://www.yanglyu-lab.com/"
+languageCode = "en-us"
+title = "LYU LAB"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Lyu Lab Website"
+
+[Author]
+    name = "Yang Lyu"
+    email = "yang.lyu@rutgers.edu"
+
+[Social]
+    twitter = "Yang_Lyu"
