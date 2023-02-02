@@ -27,7 +27,7 @@ Wesley is a second year student at Rutgers University studying MBB. His hobbies 
 
 **Advaitha Kamalakkannan**
 
-I am a second-year undergraduate student pursuing a Molecular Biology and Biochemistry major. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of Drosophila. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
+I am a second-year undergraduate student pursuing a Molecular Biology and Biochemistry major. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
 
 **Rajat Khurana**
 
@@ -35,5 +35,5 @@ Rajat Khurana is currently a Sophomore in Rutgers University. He’s currently p
 
 **Madison Oh**
 
-I am a first year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like drosophila will lead to better understanding of our more complex systems.In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
+I am a first year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
 
