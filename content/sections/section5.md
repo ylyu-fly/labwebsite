@@ -1,8 +1,8 @@
 ---
-title: "Lab Wiki"
+title: "Lab News"
 weight: 6
 ---
 
-## Lab Wiki
+## Lab News
 
-Coming soon
+Coming soon. The PI is busy setting up the lab right now..
