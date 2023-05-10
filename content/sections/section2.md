@@ -55,4 +55,5 @@ Rajat Khurana is currently a Sophomore in Rutgers University. He’s currently p
 I am a first year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
 
 #### Alumni
-**Tim Qi (2023, Lab Tech) **
+
+**Tim Qi (2023, Lab Tech)**
