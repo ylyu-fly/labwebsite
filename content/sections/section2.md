@@ -16,7 +16,7 @@ I was born and raised in Wuhan, a busy city port famous for its history, commerc
 
 Outside my research, I always have a good time exploring mountains and local restaurants.
 
-#### Graduate Student
+#### Graduate Students
 
 **Nick Pontillo**
 
