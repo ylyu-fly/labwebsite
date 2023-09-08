@@ -32,10 +32,6 @@ I have been interested in science for as long as I can remember. I pursued this 
 
 I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Rutgers University - New Brunswick. Throughout my life, I have always been intrigued by the brain's many mechanisms and behaviors that affect the body. I have previously researched "Asymmetric Cerebral Atrophy of the Temporal Lobe" while participating in a program at Rowan University School of Osteopathic Medicine. I joined the Lyu lab near the beginning of 2023 and hope to use the knowledge and skills from my previous experiences to contribute to this research. On my free time, I enjoy reading various genres of books but mostly true-crime novels. I also enjoy listening to music, especially Ginger Root.
 
-**Eli James**
-
-I received my B.S. degree in Entomology from Rutgers University in Spring 2023. I am most interested in learning about the molecular pinnings of insect behavior and how it is influenced by environmental variations. During my free time, I love working out, meditating, hanging out with friends, and bug collecting when the weather is warm. 
-
 #### Undergraduate Research Assistants
 
 **Wesley Wu**
@@ -56,4 +52,5 @@ I am a first year student pursuing a biological sciences major in the Honors Col
 
 #### Alumni
 
+**Eli James (2023, Lab Tech)**
 **Tim Qi (2023, Lab Tech)**
