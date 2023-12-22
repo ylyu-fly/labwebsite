@@ -50,6 +50,9 @@ Rajat Khurana is currently a Sophomore in Rutgers University. He’s currently p
 
 I am a first year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
 
+**Bianca Estores**
+I am currently a second year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of gaining research experience while learning more about cognitive behaviors and complex brain systems in smaller species such as Drosophila to get a better understanding of the human brain. On my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
