@@ -52,7 +52,11 @@ I am a first year student pursuing a biological sciences major in the Honors Col
 
 **Bianca Estores**
 
-I am currently a second year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of gaining research experience while learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. On my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts
+I am currently a second year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of gaining research experience while learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. On my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
+
+**Selin Altunyay**
+
+Hello! My name is Selin Altunyay! I am a First Year Rutgers Student and I am pursuing a major in Molecular Biology and Biochemistry. My ultimate career goal is to work in the medical field as a doctor. Though I am an MBB major, I am also deeply interested in Cognitive Science and Neuroscience, as well as Genetics. Outside of science, my hobbies are dancing, drawing, and playing the piano. I also really love cats, and I have a pet cat myself!
 
 #### Alumni
 
