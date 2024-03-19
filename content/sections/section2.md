@@ -58,6 +58,10 @@ I am currently a second year undergraduate student pursuing a major in Cell Biol
 
 Hello! My name is Selin Altunyay! I am a First Year Rutgers Student and I am pursuing a major in Molecular Biology and Biochemistry. My ultimate career goal is to work in the medical field as a doctor. Though I am an MBB major, I am also deeply interested in Cognitive Science and Neuroscience, as well as Genetics. Outside of science, my hobbies are dancing, drawing, and playing the piano. I also really love cats, and I have a pet cat myself!
 
+**Will Cappello**
+
+I am a first year student in the Honors College studying Molecular Biology and Biochemistry as well as Classics. After four years of undergraduate study, I plan to enter medical school, where I hope to match into a brain-related residency. While I have always been fascinated by neurodegeneration, I gained a particular interest in aging research and, in turn, the Lyu Lab after reading Lifespan: Why We Age and Why We Don’t Have To by David Sinclair. In my free time, I enjoy playing soccer, weightlifting, hanging out with friends, reading, translating Latin, and gaming.
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
