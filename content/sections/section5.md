@@ -13,7 +13,7 @@ Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restrictio
 
 ** **
 
-Apr 2 | We are so proud that Rajat has successfully defended his honor's thesis titled, 'The Role of Serotonin Receptor 2A/B and Nutrient Choice on the Lifespan of the Fruit Fly Drosophila melanogaster.' Congratulations on this significant milestone, Rajat!
+Apr 2 | We are so proud that Rajat has successfully defended his honor's thesis titled, 'The Role of Serotonin Receptor 2A/B and Nutrient Choice on the Lifespan of the Fruit Fly *Drosophila melanogaster*.' Congratulations on this significant milestone, Rajat!
 
 ** **
 
