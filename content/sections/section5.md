@@ -7,24 +7,26 @@ weight: 6
 
 **Spring, 2024**
 
-Apr 29 - Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Congradulations, Advaitha!
+Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Great work, Advaitha!
 
 ![](img/section5-pic2.jpg)
 
+Mar 25 | We're thrilled to announce that our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
+
 **Fall, 2023**
 
-Oct 9 - Welcome our new undergraduate research assistant Bianca, to the Lyu lab! Our lab is growing bigger and bigger.
+Oct 9 | Welcome our new undergraduate research assistant Bianca, to the Lyu lab! Our lab is growing bigger and bigger.
 
 **Summer, 2023**
 
-Sep 7 - Nick Pontillo, our first graduate student, has passed his qualifying exams and is now officially a Ph.D. candidate. Congratulations, Nick!
+Sep 7 | Nick Pontillo, our first graduate student, has passed his qualifying exams and is now officially a Ph.D. candidate. Congratulations, Nick!
 
-Aug 9 - Madison presented her research project titled "Protein Perception Modulates Lifespan and Reproduction in *Drosophila*" to RU students and professors alike at the DLS-SURF Research Symposium.  
+Aug 9 | Madison presented her research project titled "Protein Perception Modulates Lifespan and Reproduction in *Drosophila*" to RU students and professors alike at the DLS-SURF Research Symposium.  
 
 ![](img/section5-pic1.jpg)
 
-Jun 21 - This summer marked the inaugural Lyu Lab Flympics - an event already destined to become a time-honored tradition! In a display of *Drosophila* prowess, Laura emerged as the esteemed Flympics Champion, while Madison secured the promising title of Future Fly Star. The spirit of our Jersey roots was alive as we played music from the legendary Bon Jovi to commemorate these achievements and the initiation of this exciting new tradition in the Lyu Lab.
+Jun 21 | This summer marked the inaugural Lyu Lab Flympics - an event already destined to become a time-honored tradition! In a display of *Drosophila* prowess, Laura emerged as the esteemed Flympics Champion, while Madison secured the promising title of Future Fly Star. The spirit of our Jersey roots was alive as we played music from the legendary Bon Jovi to commemorate these achievements and the initiation of this exciting new tradition in the Lyu Lab.
 
 **Spring, 2023** 
 
-May 1 - Madison was awarded the [DLS Summer Undergraduate Research Fellowship](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf)!! CONGRATULATIONS Madison!
+May 1 | Madison was awarded the [DLS Summer Undergraduate Research Fellowship](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf)!! CONGRATULATIONS Madison!
