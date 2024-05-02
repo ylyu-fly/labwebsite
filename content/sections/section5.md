@@ -9,6 +9,8 @@ weight: 6
 
 Apr 29 - Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Congradulations, Advaitha!
 
+![](img/section5-pic2.jpg)
+
 **Fall, 2023**
 
 Oct 9 - Welcome our new undergraduate research assistant Bianca, to the Lyu lab! Our lab is growing bigger and bigger.
