@@ -13,6 +13,10 @@ Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restrictio
 
 ** **
 
+Apr 2 | We are so proud that Rajat has successfully defended his honor's thesis titled, 'The Role of Serotonin Receptor 2A/B and Nutrient Choice on the Lifespan of the Fruit Fly Drosophila melanogaster.' Congratulations on this significant milestone, Rajat!
+
+** **
+
 Mar 25 | **Eli accepted into PhD!** - Our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
 
 ![](img/Eli_James.png)
