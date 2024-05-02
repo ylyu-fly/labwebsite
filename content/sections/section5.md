@@ -19,7 +19,7 @@ Sep 7 - Nick Pontillo, our first graduate student, has passed his qualifying exa
 
 Aug 9 - Madison presented her research project titled "Protein Perception Modulates Lifespan and Reproduction in *Drosophila*" to RU students and professors alike at the DLS-SURF Research Symposium.  
 
-![](img/section5-pic1.jpg =140x)
+![](img/section5-pic1.jpg)
 
 Jun 21 - This summer marked the inaugural Lyu Lab Flympics - an event already destined to become a time-honored tradition! In a display of *Drosophila* prowess, Laura emerged as the esteemed Flympics Champion, while Madison secured the promising title of Future Fly Star. The spirit of our Jersey roots was alive as we played music from the legendary Bon Jovi to commemorate these achievements and the initiation of this exciting new tradition in the Lyu Lab.
 
