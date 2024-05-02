@@ -7,7 +7,7 @@ weight: 6
 
 **Spring, 2024**
 
-Apr 29 - Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January
+Apr 29 - Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Congradulations, Advaitha!
 
 **Fall, 2023**
 
