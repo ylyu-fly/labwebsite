@@ -13,7 +13,7 @@ Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restrictio
 
 ** **
 
-Mar 25 | We're thrilled to announce that our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
+Mar 25 | **Eli accepted into PhD!** - Our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
 
 ![](img/Eli_James.png)
 
@@ -24,6 +24,8 @@ Oct 9 | Welcome our new undergraduate research assistant Bianca, to the Lyu lab!
 **Summer, 2023**
 
 Sep 7 | Nick Pontillo, our first graduate student, has passed his qualifying exams and is now officially a Ph.D. candidate. Congratulations, Nick!
+
+** **
 
 Aug 9 | Madison presented her research project titled "Protein Perception Modulates Lifespan and Reproduction in *Drosophila*" to RU students and professors alike at the DLS-SURF Research Symposium.  
 
