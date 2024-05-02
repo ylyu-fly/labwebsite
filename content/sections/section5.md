@@ -5,6 +5,10 @@ weight: 6
 
 ## Lab News
 
+**Spring, 2024**
+
+Apr 29 - Advaith presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January
+
 **Fall, 2023**
 
 Oct 9 - Welcome our new undergraduate research assistant Bianca, to the Lyu lab! Our lab is growing bigger and bigger.
@@ -15,7 +19,7 @@ Sep 7 - Nick Pontillo, our first graduate student, has passed his qualifying exa
 
 Aug 9 - Madison presented her research project titled "Protein Perception Modulates Lifespan and Reproduction in *Drosophila*" to RU students and professors alike at the DLS-SURF Research Symposium.  
 
-![](img/section5-pic1.jpg){ width=50% }
+![](img/section5-pic1.jpg?w2)
 
 Jun 21 - This summer marked the inaugural Lyu Lab Flympics - an event already destined to become a time-honored tradition! In a display of *Drosophila* prowess, Laura emerged as the esteemed Flympics Champion, while Madison secured the promising title of Future Fly Star. The spirit of our Jersey roots was alive as we played music from the legendary Bon Jovi to commemorate these achievements and the initiation of this exciting new tradition in the Lyu Lab.
 
