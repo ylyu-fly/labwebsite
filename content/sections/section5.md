@@ -11,7 +11,11 @@ Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restrictio
 
 ![](img/section5-pic2.jpg)
 
+** **
+
 Mar 25 | We're thrilled to announce that our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
+
+![](img/Eli_James.png)
 
 **Fall, 2023**
 
