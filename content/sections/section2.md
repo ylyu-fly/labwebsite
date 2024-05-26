@@ -17,9 +17,8 @@ I was born and raised in Wuhan, a busy city port famous for its history, commerc
 Outside my research, I always have a good time exploring mountains and local restaurants.
 
 Teaching: 
-* Biology of Aging (694:421, Spring 2024, Spring 2025)
-* Introductory Computational Biology (694:390, Spring 2025)
-
+Biology of Aging (694:421, Spring 2024, Spring 2025)
+Introductory Computational Biology (694:390, Spring 2025)
 
 
 #### Graduate Students
