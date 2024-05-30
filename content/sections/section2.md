@@ -42,35 +42,37 @@ I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Ru
 
 #### Undergraduate Research Assistants
 
-**Wesley Wu**
-
-Wesley is a second year student at Rutgers University studying MBB. His hobbies include climbing and gaming.
-
 **Advaitha Kamalakkannan**
 
-I am a second-year undergraduate student pursuing a Molecular Biology and Biochemistry major. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
+I am a fourth-year undergraduate student pursuing a Molecular Biology and Biochemistry major. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
 
 **Rajat Khurana**
 
-Rajat Khurana is currently a Sophomore in Rutgers University. He’s currently pursuing a degree in Biology, and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
+Rajat Khurana is a senior in Rutgers University. He’s currently pursuing a degree in Biology, and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
 
 **Madison Oh**
 
-I am a first year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
+I am a third year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
 
 **Bianca Estores**
 
-I am currently a second year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of gaining research experience while learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. On my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
-
-**Selin Altunyay**
-
-Hello! My name is Selin Altunyay! I am a First Year Rutgers Student and I am pursuing a major in Molecular Biology and Biochemistry. My ultimate career goal is to work in the medical field as a doctor. Though I am an MBB major, I am also deeply interested in Cognitive Science and Neuroscience, as well as Genetics. Outside of science, my hobbies are dancing, drawing, and playing the piano. I also really love cats, and I have a pet cat myself!
+I am a rising fourth year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. During my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
 
 **Will Cappello**
 
-I am a first year student in the Honors College studying Molecular Biology and Biochemistry as well as Classics. After four years of undergraduate study, I plan to enter medical school, where I hope to match into a brain-related residency. While I have always been fascinated by neurodegeneration, I gained a particular interest in aging research and, in turn, the Lyu Lab after reading Lifespan: Why We Age and Why We Don’t Have To by David Sinclair. In my free time, I enjoy playing soccer, weightlifting, hanging out with friends, reading, translating Latin, and gaming.
+I am a rising second year student in the Honors College studying Molecular Biology and Biochemistry as well as Classics. After four years of undergraduate study, I plan to enter medical school, where I hope to match into a brain-related residency. While I have always been fascinated by neurodegeneration, I gained a particular interest in aging research and, in turn, the Lyu Lab after reading Lifespan: Why We Age and Why We Don’t Have To by David Sinclair. In my free time, I enjoy playing soccer, weightlifting, hanging out with friends, reading, translating Latin, and gaming.
+
+**Salvatore Agosta** 
+
+I am a second year student at Rutgers majoring in Biological Sciences following the pre-dental track. Though my major encompasses a wide range of topics, I have always had a lingering interest in neurobiology which is why I joined Lyu Lab in April 2024. I look forward to working with *Drosophila* and relating any significant findings to humans. During my free time, I like to run, weightlift, practice my Spanish, and spend time with friends and family.
+
+**Uchechi Eke**
+
+I am a first year student pursuing a major in Cell Biology and Neuroscience. Afterwards, I plan to go to medical school to become a Psychiatrist. The human brain has always fascinated me, and I believe learning about the brains of *Drosophila* will help to further cement my desire to learn more about the brain as a whole. Outside of science, I enjoy reading, writing, and listening to music.
 
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
 **Tim Qi (2023, Lab Tech)**
+**Selin Altunyay (2024, Undergraduate RA)**
+**Wesley Wu (2024, Undergraduate RA)**
