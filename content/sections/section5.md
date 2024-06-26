@@ -15,6 +15,7 @@ June 26 | Summer is officially here! Our lab has collaborated with the new Liu L
 
 June 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and is now officially a Ph.D. candidate! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
 
+** **
 
 **Spring, 2024**
 
@@ -31,6 +32,8 @@ Apr 2 | We are so proud that Rajat has successfully defended his honor's thesis 
 Mar 25 | **Eli accepted into PhD!** - Our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
 
 ![](img/Eli_James.png)
+
+** **
 
 **Fall, 2023**
 
