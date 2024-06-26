@@ -5,6 +5,17 @@ weight: 6
 
 ## Lab News
 
+**Summer, 2024** 
+
+June 26 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
+
+![](img/section5-labpicnic.jpg)
+
+** **
+
+June 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and is now officially a Ph.D. candidate! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
+
+
 **Spring, 2024**
 
 Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Great work, Advaitha!
