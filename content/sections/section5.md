@@ -13,7 +13,7 @@ June 24 | Summer is officially here! Our lab has collaborated with the new Liu L
 
 ** **
 
-June 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and is now officially a Ph.D. candidate! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
+June 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and **is now officially a Ph.D. candidate**! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
 
 ![](img/section5-Laura_Byron.jpg)
 
