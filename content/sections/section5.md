@@ -7,7 +7,7 @@ weight: 6
 
 **Summer, 2024** 
 
-June 26 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
+June 24 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
 
 ![](img/section5-labpicnic.jpg)
 
