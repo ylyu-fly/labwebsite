@@ -66,13 +66,10 @@ I am a rising second year student in the Honors College studying Molecular Biolo
 
 I am a second year student at Rutgers majoring in Biological Sciences following the pre-dental track. Though my major encompasses a wide range of topics, I have always had a lingering interest in neurobiology which is why I joined Lyu Lab in April 2024. I look forward to working with *Drosophila* and relating any significant findings to humans. During my free time, I like to run, weightlift, practice my Spanish, and spend time with friends and family.
 
-**Uchechi Eke**
-
-I am a first year student pursuing a major in Cell Biology and Neuroscience. Afterwards, I plan to go to medical school to become a Psychiatrist. The human brain has always fascinated me, and I believe learning about the brains of *Drosophila* will help to further cement my desire to learn more about the brain as a whole. Outside of science, I enjoy reading, writing, and listening to music.
-
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
 **Tim Qi (2023, Lab Tech)**
 **Selin Altunyay (2024, Undergraduate RA)**
 **Wesley Wu (2024, Undergraduate RA)**
+**Uchechi Eke (2024, Undergraduate RA)**
