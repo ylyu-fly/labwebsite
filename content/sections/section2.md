@@ -69,4 +69,4 @@ I am a second year student at Rutgers majoring in Biological Sciences following 
 **Selin Altunyay (2024, Undergraduate RA)**
 **Wesley Wu (2024, Undergraduate RA)**
 **Uchechi Eke (2024, Undergraduate RA)**
-**Will Cappello (2024, Undergraduate RA**
+**Will Cappello (2024, Undergraduate RA)**
