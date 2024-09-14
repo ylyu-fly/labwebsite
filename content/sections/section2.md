@@ -58,10 +58,6 @@ I am a third year student pursuing a biological sciences major in the Honors Col
 
 I am a rising fourth year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. During my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
 
-**Will Cappello**
-
-I am a rising second year student in the Honors College studying Molecular Biology and Biochemistry as well as Classics. After four years of undergraduate study, I plan to enter medical school, where I hope to match into a brain-related residency. While I have always been fascinated by neurodegeneration, I gained a particular interest in aging research and, in turn, the Lyu Lab after reading Lifespan: Why We Age and Why We Don’t Have To by David Sinclair. In my free time, I enjoy playing soccer, weightlifting, hanging out with friends, reading, translating Latin, and gaming.
-
 **Salvatore Agosta** 
 
 I am a second year student at Rutgers majoring in Biological Sciences following the pre-dental track. Though my major encompasses a wide range of topics, I have always had a lingering interest in neurobiology which is why I joined Lyu Lab in April 2024. I look forward to working with *Drosophila* and relating any significant findings to humans. During my free time, I like to run, weightlift, practice my Spanish, and spend time with friends and family.
@@ -73,3 +69,4 @@ I am a second year student at Rutgers majoring in Biological Sciences following 
 **Selin Altunyay (2024, Undergraduate RA)**
 **Wesley Wu (2024, Undergraduate RA)**
 **Uchechi Eke (2024, Undergraduate RA)**
+**Will Cappello (2024, Undergraduate RA**
