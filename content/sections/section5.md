@@ -7,13 +7,15 @@ weight: 6
 
 **Summer, 2024** 
 
-June 24 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
+Jul 1 | Our proposal utilizing optogenetics to explore how motivation and reward systems influence longevity has been awarded funding by the American Federation for Aging Research ([AFAR](https://www.afar.org/2024-grant-recipients)).
+
+Jun 24 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
 
 ![](img/section5-labpicnic.jpg)
 
 ** **
 
-June 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and **is now officially a Ph.D. candidate**! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
+Jun 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and **is now officially a Ph.D. candidate**! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
 
 ![](img/section5-Laura_Byron.jpg)
 
