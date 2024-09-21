@@ -7,7 +7,7 @@ weight: 6
 
 **Summer, 2024** 
 
-Jul 1 | Our proposal utilizing optogenetics to explore how motivation and reward systems influence longevity has been awarded funding by the American Federation for Aging Research ([AFAR](https://www.afar.org/2024-grant-recipients)).
+Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by the American Federation for Aging Research ([AFAR](https://www.afar.org/2024-grant-recipients))!!
 
 Jun 24 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
 
