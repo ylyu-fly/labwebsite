@@ -7,7 +7,7 @@ weight: 6
 
 **Summer, 2024** 
 
-Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients))!!
+Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients)!!
 
 ![](img/section5-afar.png)
 
