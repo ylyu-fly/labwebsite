@@ -5,7 +5,7 @@ weight: 5
 
 ## Publications
 
-#### Publications and preprints from Lyu Lab and collaborations
+#### Lyu Lab and collaborations
 
 Olivia L. Mosley, Joel A. Villa, Advaitha Kamalakkannan, Eliyashaib James, Jessica M. Hoffman\*,  Yang Lyu\*. (2024) Stochasticity in dietary restriction-mediated lifespan outcomes in *Drosophila*. [bioRxiv: 2024.09.06.611756](https://www.biorxiv.org/content/10.1101/2024.09.06.611756v1) (\*co-corresponding authors)
 
