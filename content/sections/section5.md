@@ -5,6 +5,15 @@ weight: 6
 
 ## Lab News
 
+**Fall, 2024**
+Sep 27 | Our lab attended our first CSHL conference, where we presented our research, enjoyed great food, and had many insightful conversations!
+
+i[](img/section5-cshl1.jpg)
+i[](img/section5-cshl2.jpg)
+i[](img/section5-cshl3.jpg)
+i[](img/section5-cshl4.jpg)
+i[](img/section5-cshl5.jpg)
+
 **Summer, 2024** 
 
 Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients)!!
