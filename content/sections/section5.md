@@ -6,6 +6,7 @@ weight: 6
 ## Lab News
 
 **Fall, 2024**
+
 Sep 27 | Our lab attended our first CSHL conference, where we presented our research, enjoyed great food, and had many insightful conversations!
 
 i[](img/section5-cshl1.jpg)
