@@ -9,11 +9,11 @@ weight: 6
 
 Sep 27 | Our lab attended our first CSHL conference, where we presented our research, enjoyed great food, and had many insightful conversations!
 
-i[](img/section5-cshl1.jpg)
-i[](img/section5-cshl2.jpg)
-i[](img/section5-cshl3.jpg)
-i[](img/section5-cshl4.jpg)
-i[](img/section5-cshl5.jpg)
+![](img/section5-cshl1.jpg)
+![](img/section5-cshl2.jpg)
+![](img/section5-cshl3.jpg)
+![](img/section5-cshl4.jpg)
+![](img/section5-cshl5.jpeg)
 
 **Summer, 2024** 
 
