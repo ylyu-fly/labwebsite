@@ -7,7 +7,7 @@ weight: 6
 
 **Fall, 2024**
 
-Sep 27 | Our lab attended our first [CSHL conference](https://meetings.cshl.edu/meetings.aspx?meet=aging&year=24), where we presented our research, enjoyed great food, and had many good conversations!
+Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.edu/meetings.aspx?meet=aging&year=24), where we presented our research, enjoyed great food, and had many good conversations!
 
 ![](img/section5-cshl1.jpg)
 
