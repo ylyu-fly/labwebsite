@@ -19,9 +19,10 @@ Sep 27 | Our lab attended our first [CSHL conference](https://meetings.cshl.edu/
 
 ![](img/section5-cshl5.jpeg)
 
+![](img/section5-brooklynbridge.jpeg)
+
 Despite the heavy fog, Evie was still able to spot the Statue of Liberty while walking across the Brooklyn Bridge in the best weather ever.
 
-![](img/section5-brooklynbridge.jpeg)
 
 **Summer, 2024** 
 
