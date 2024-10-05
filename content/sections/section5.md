@@ -22,6 +22,7 @@ Sep 27 | Our lab attended our first [CSHL conference](https://meetings.cshl.edu/
 Despite the heavy fog, Evie was still able to spot the Statue of Liberty while walking across the Brooklyn Bridge in the best weather ever.
 
 ![](img/section5-brooklynbridge.jpeg)
+
 **Summer, 2024** 
 
 Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients)!!
