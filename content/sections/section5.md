@@ -11,6 +11,8 @@ Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.e
 
 ![](img/section5-cshl1.jpg)
 
+![](img/section5-cshl_nick.jpg)
+
 ![](img/section5-cshl2.jpg)
 
 ![](img/section5-cshl3.jpg)
