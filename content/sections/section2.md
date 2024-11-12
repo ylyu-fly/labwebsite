@@ -62,6 +62,10 @@ I am a rising fourth year undergraduate student pursuing a major in Cell Biology
 
 I am a second year student at Rutgers majoring in Biological Sciences following the pre-dental track. Though my major encompasses a wide range of topics, I have always had a lingering interest in neurobiology which is why I joined Lyu Lab in April 2024. I look forward to working with *Drosophila* and relating any significant findings to humans. During my free time, I like to run, weightlift, practice my Spanish, and spend time with friends and family.
 
+**Jinhu Chung**
+
+I am a second year undergraduate student studying Biomedical Engineering specializing in Tissue Engineering and Biomolecular Engineering. I joined Lyu Lab in the summer of 2024 and am excited to implement optogenetics and systems such as GAL4-UAS to assess the effects of feeding behavior and life expectancy. Outside of the lab I play for Rutgers Machine Ultimate and travel across the east coast competing against other schools.
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
