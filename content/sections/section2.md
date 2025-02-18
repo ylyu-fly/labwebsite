@@ -40,15 +40,15 @@ I have been interested in science for as long as I can remember. I pursued this 
 
 I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Rutgers University - New Brunswick. Throughout my life, I have always been intrigued by the brain's many mechanisms and behaviors that affect the body. I have previously researched "Asymmetric Cerebral Atrophy of the Temporal Lobe" while participating in a program at Rowan University School of Osteopathic Medicine. I joined the Lyu lab near the beginning of 2023 and hope to use the knowledge and skills from my previous experiences to contribute to this research. On my free time, I enjoy reading various genres of books but mostly true-crime novels. I also enjoy listening to music, especially Ginger Root.
 
-#### Undergraduate Research Assistants
+**Rajat Khurana**
+
+Rajat Khurana is a Biology graduate from Rutgers University and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
 
 **Advaitha Kamalakkannan**
 
-I am a fourth-year undergraduate student pursuing a Molecular Biology and Biochemistry major. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
+I graduated from Rutgers University with a major in Molecular Biology and Biochemistry. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
 
-**Rajat Khurana**
-
-Rajat Khurana is a senior in Rutgers University. He’s currently pursuing a degree in Biology, and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
+#### Undergraduate Research Assistants
 
 **Madison Oh**
 
@@ -56,11 +56,7 @@ I am a third year student pursuing a biological sciences major in the Honors Col
 
 **Bianca Estores**
 
-I am a rising fourth year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. During my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
-
-**Salvatore Agosta** 
-
-I am a second year student at Rutgers majoring in Biological Sciences following the pre-dental track. Though my major encompasses a wide range of topics, I have always had a lingering interest in neurobiology which is why I joined Lyu Lab in April 2024. I look forward to working with *Drosophila* and relating any significant findings to humans. During my free time, I like to run, weightlift, practice my Spanish, and spend time with friends and family.
+I am a fourth year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. During my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
 
 **Jinhu Chung**
 
@@ -74,3 +70,4 @@ I am a second year undergraduate student studying Biomedical Engineering special
 **Wesley Wu (2024, Undergraduate RA)**
 **Uchechi Eke (2024, Undergraduate RA)**
 **Will Cappello (2024, Undergraduate RA)**
+**Salvatore Agosta (2024, Undergraduate RA)**
