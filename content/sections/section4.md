@@ -8,7 +8,7 @@ weight: 5
 #### Lyu Lab and collaborations
 
 
-Olivia L. Mosley, Joel A. Villa, Advaitha Kamalakkannan, Eliyashaib James, Jessica M. Hoffman*, Yang Lyu*. (2025) Stochasticity in dietary restriction-mediated lifespan outcomes in *Drosophila*. [Geroscience. 2025 Jan 31. doi: 10.1007/s11357-025-01537-5](https://link.springer.com/article/10.1007/s11357-025-01537-5) (*co-corresponding authors)
+Olivia L. Mosley, Joel A. Villa, Advaitha Kamalakkannan, Eliyashaib James, Jessica M. Hoffman*, Yang Lyu*. (2025) Stochasticity in dietary restriction-mediated lifespan outcomes in *Drosophila*. [Geroscience. 2025 Jan 31](https://link.springer.com/article/10.1007/s11357-025-01537-5) (*co-corresponding authors)
 
 -- Our lab, in collaboration with the Jessica Hoffman lab (@Augusta U), conducted repeated dietary restriction experiments in *Drosophila* and made a surprising discovery: the variation in longevity was driven more by genetic background, sex, and even random fluctuations than by diet itself or differences between labs.
 
