@@ -10,12 +10,12 @@ weight: 5
 
 Olivia L. Mosley, Joel A. Villa, Advaitha Kamalakkannan, Eliyashaib James, Jessica M. Hoffman*, Yang Lyu*. (2025) Stochasticity in dietary restriction-mediated lifespan outcomes in *Drosophila*. [Geroscience. 2025 Jan 31](https://link.springer.com/article/10.1007/s11357-025-01537-5) (*co-corresponding authors)
 
-<span style="color: #f47f1e;">-- Our lab, in collaboration with the Jessica Hoffman lab (@Augusta U), conducted repeated dietary restriction experiments in *Drosophila* and made a surprising discovery: the variation in longevity was driven more by genetic background, sex, and even random fluctuations than by diet itself or differences between labs.</span>
+<span style="color: #e59f05;">> Our lab, in collaboration with the Jessica Hoffman lab (@Augusta U), conducted repeated dietary restriction experiments in *Drosophila* and made a surprising discovery: the variation in longevity was driven more by genetic background, sex, and even random fluctuations than by diet itself or differences between labs.</span>
 
 
-Nicholas Pontillo, Yang Lyu. (2025) Perception and longevity control in invertebrate model organisms—A mini-review of recent advances. [Biomolecules 15 (2), 187](https://www.mdpi.com/2218-273X/15/2/187)
+Nicholas Pontillo and Yang Lyu. (2025) Perception and longevity control in invertebrate model organisms—A mini-review of recent advances. [Biomolecules 15 (2), 187](https://www.mdpi.com/2218-273X/15/2/187)
 
--- Nick has authored the lab’s first mini-review! In this article, we discuss whether the well-known effects of diet, mating, social interactions, and light on aging arise from the factors themselves or from the sensory mechanisms that detect them.
+<span style="color: #e59f05;">> Nick has authored the lab’s first mini-review! In this article, we discuss whether the well-known effects of diet, mating, social interactions, and light on aging arise from the factors themselves or from the sensory mechanisms that detect them.</span>
 
 
 #### Before Rutgers
