@@ -15,7 +15,7 @@ Olivia L. Mosley, Joel A. Villa, Advaitha Kamalakkannan, Eliyashaib James, Jessi
 
 Nicholas Pontillo and Yang Lyu. (2025) Perception and longevity control in invertebrate model organisms—A mini-review of recent advances. [Biomolecules 15 (2), 187](https://www.mdpi.com/2218-273X/15/2/187)
 
-<span style="color: #e59f05;">> Nick has authored the lab’s first mini-review! In this article, we discuss whether the well-known effects of diet, mating, social interactions, and light on aging arise from the factors themselves or from the sensory mechanisms that detect them.</span>
+<span style="color: #e59f05;">> Nick has authored the lab’s **first** mini-review! In this article, we discuss whether the well-known effects of diet, mating, social interactions, and light on aging arise from the factors themselves or from the sensory mechanisms that detect them.</span>
 
 
 #### Before Rutgers
