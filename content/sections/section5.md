@@ -26,7 +26,7 @@ Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.e
 Despite the heavy fog, Evie was still able to spot the Statue of Liberty while walking across the Brooklyn Bridge in the best weather ever.
 
 
-**Summer, 2024** 
+<span style="color: #e59f05;">**Summer, 2024**</span>
 
 Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients)!!
 
@@ -44,7 +44,7 @@ Jun 17 | Laura Byron, one of our hardworking graduate students, has passed their
 
 ** **
 
-**Spring, 2024**
+<span style="color: #e59f05;">**Spring, 2024**</span>
 
 Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Great work, Advaitha!
 
@@ -62,13 +62,13 @@ Mar 25 | **Eli accepted into PhD!** - Our former lab tech, Eli James, has been a
 
 ** **
 
-**Fall, 2023**
+<span style="color: #e59f05;">**Fall, 2023**</span>
 
 Oct 9 | Welcome our new undergraduate research assistant Bianca, to the Lyu lab! Our lab is growing bigger and bigger.
 
 ** **
 
-**Summer, 2023**
+<span style="color: #e59f05;">**Summer, 2023**</span>
 
 Sep 7 | Nick Pontillo, our first graduate student, has passed his qualifying exams and is now officially a Ph.D. candidate. Congratulations, Nick!
 
@@ -84,6 +84,6 @@ Jun 21 | This summer marked the inaugural Lyu Lab Flympics - an event already de
 
 ** **
 
-**Spring, 2023** 
+<span style="color: #e59f05;">**Spring, 2023**</span>
 
 May 1 | Madison was awarded the [DLS Summer Undergraduate Research Fellowship](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf)!! CONGRATULATIONS Madison!
