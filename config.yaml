@@ -12,3 +12,8 @@ Author:
   name: Yang Lyu
 Social:
   twitter: Yang_Lyu
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
