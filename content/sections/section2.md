@@ -62,6 +62,11 @@ I am a fourth year undergraduate student pursuing a major in Cell Biology and Ne
 
 I am a second year undergraduate student studying Biomedical Engineering specializing in Tissue Engineering and Biomolecular Engineering. I joined Lyu Lab in the summer of 2024 and am excited to implement optogenetics and systems such as GAL4-UAS to assess the effects of feeding behavior and life expectancy. Outside of the lab I play for Rutgers Machine Ultimate and travel across the east coast competing against other schools.
 
+<span style="color: #e59f05;">**Anton Misirpashayev**</span>
+
+I joined the Lyu Lab during the spring of 2025, and I am aiming for a major in Cell Biology and Neuroscience. My goals with the lab are devoted to its research into Alzheimer's and the corresponding protein aggregates that recur and wreak havoc in the brain. My life outside of the lab can largely be summed up with playing and listening to music (usually classical and prog rock), computer gaming, language learning, and most recently, reading sci-fi novels.
+
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
