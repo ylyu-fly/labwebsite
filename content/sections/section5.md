@@ -5,6 +5,20 @@ weight: 6
 
 ## Lab News
 
+<span style="color: #e59f05;">**Spring, 2025**</span>
+
+Mar 3 | Laura Byron, one of our PhD students, was awared second place for Rising Star at the Rutgers Conference! Congratulations Laura!!
+
+![](img/section5-lauraconf1.jpg)
+
+![](img/section5-lauraconf2.jpg)
+
+![](img/section5-lauraconf3.jpg)
+
+Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-scenes content at our research lab. Stay tuned for lab life moments in and outside of research!
+
+Feb 28 | With the lab's acheivements in recent publications, we celebrated through a lab dinner at Chef Tan! We enjoyed all the delicious foods and enjoyed a trivia game hosted by Dr. Lyu! 
+
 <span style="color: #e59f05;">**Fall, 2024**</span>
 
 Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.edu/meetings.aspx?meet=aging&year=24), where we presented our research, enjoyed great food, and had many good conversations!
