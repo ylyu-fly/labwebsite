@@ -66,6 +66,9 @@ I am a second year undergraduate student studying Biomedical Engineering special
 
 I joined the Lyu Lab during the spring of 2025, and I am aiming for a major in Cell Biology and Neuroscience. My goals with the lab are devoted to its research into Alzheimer's and the corresponding protein aggregates that recur and wreak havoc in the brain. My life outside of the lab can largely be summed up with playing and listening to music (usually classical and prog rock), computer gaming, language learning, and most recently, reading sci-fi novels.
 
+<span style="color: #e59f05;">**Aditya Tripathi**</span>
+
+I am a first year undergraduate pursuing a major in Cell Biology and Neuroscience and a double minor in Nutrition and Psychology. I joined Lyu Lab in the spring of 2025 with the hopes of learning more about how smaller Drosophila models can enhance current understanding of neurodegenerative disease progression. My hobbies outside of academics are wrestling, lifting and gaming. I am also currently learning to program!
 
 #### Alumni
 
