@@ -34,19 +34,27 @@ I received my Bachelor of Science in Behavioral Neuroscience from Northeastern U
 
 I have been interested in science for as long as I can remember. I pursued this passion by taking classes at Cold Spring Harbor Labs in high school, and then receiving my B.A. in Genetics from Rutgers University in 2017. I spent two years as a lab technician studying aneuploidy in cancer at Columbia University before coming back to Rutgers for graduate school in the Cell and Developmental Biology program.
 
+<span style="color: #e59f05;">**Justin Ng**</span>
+
+Born and raised in Kuala Lumpur, Malaysia, I developed an early interest in aging biology through my experience as a caregiver, where I saw firsthand the emotional and financial toll of age-related diseases. This experience motivated me to pursue a career in biomedical research, earning my B.Sc. and M.Sc. in Biomedical Science in the UK before starting my Ph.D. in Cell and Developmental Biology at Rutgers University in 2024. I joined the Lyu Lab in Spring 2025, where I’m interested in how sensory perception and its associated neural pathways influence stress resistance, metabolism, and longevity in Drosophila melanogaster. Outside the lab, I enjoy teaching guitar, practicing Muay Thai, and leading science outreach projects that promote biology education and Southeast Asian representation in STEM.
+
 #### Lab Technicians
 
 <span style="color: #e59f05;">**Joel Villa (Lab Manager)**</span>
 
 I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Rutgers University - New Brunswick. Throughout my life, I have always been intrigued by the brain's many mechanisms and behaviors that affect the body. I have previously researched "Asymmetric Cerebral Atrophy of the Temporal Lobe" while participating in a program at Rowan University School of Osteopathic Medicine. I joined the Lyu lab near the beginning of 2023 and hope to use the knowledge and skills from my previous experiences to contribute to this research. On my free time, I enjoy reading various genres of books but mostly true-crime novels. I also enjoy listening to music, especially Ginger Root.
 
-<span style="color: #e59f05;">**Rajat Khurana**</span>
-
-Rajat Khurana is a Biology graduate from Rutgers University and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
-
 <span style="color: #e59f05;">**Advaitha Kamalakkannan**</span>
 
 I graduated from Rutgers University with a major in Molecular Biology and Biochemistry. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
+
+<span style="color: #e59f05;">**Thara Nair**</span>
+
+I am a Laboratory Technician with a master’s degree in Biochemistry and a bachelor’s degree in chemistry. I possess extensive experience in laboratory techniques, including specimen preparation, media preparation, and various biochemical testing methods. In March 2024, I joined Rutgers Nelson Biology's Driscoll Laboratories, where my work focuses on laboratory techniques for *C. elegans*. In March 2025, I joined Lyu Lab to assist with *Drosophila melanogaster* fly food cooking. Additionally, I have served as an IVF Laboratory Technician in India, where I was involved in media preparation and specimen analysis for reproductive technologies.
+
+<span style="color: #e59f05;">**Rajat Khurana**</span>
+
+Rajat Khurana is a Biology graduate from Rutgers University and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
 
 #### Undergraduate Research Assistants
 
