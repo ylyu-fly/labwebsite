@@ -16,4 +16,5 @@ For prospective graduate students: we are currently recruiting students from the
 {{< socialhandles >}}
     {{< twitter user="Yang_Lyu" >}}
     {{< github user="ylyu-fly" >}}
+    {{< tiktok user="lyulab" >}}
 {{< /socialhandles >}}
