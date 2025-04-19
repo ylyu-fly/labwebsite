@@ -14,7 +14,7 @@ We are actively looking for talented researchers – from PhDs to undergraduate 
 For prospective graduate students: we are currently recruiting students from the [CDB](https://molbiosci.rutgers.edu/cdb) and [neuroscience](https://grad.rutgers.edu/academics/graduate-programs/neuroscience) programs at Rutgers – contact me or your program to rotate in our lab. 
 
 {{< socialhandles >}}
+    {{< email email="yang.lyu@rutgers.edu" >}}
     {{< github user="ylyu-fly" >}}
     {{< tiktok user="lyulab" >}}
-    {{< email email="yang.lyu@rutgers.edu" >}}
 {{< /socialhandles >}}
