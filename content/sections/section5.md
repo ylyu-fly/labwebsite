@@ -25,7 +25,7 @@ Mar 3 | **Laura Byron**, our PhD student, was awared second place for Rising Sta
 
 Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-scenes content at our research lab. Stay tuned for lab life moments in and outside of research!
 
-Feb 28 | With the lab's achievements in recent publications, we celebrated through a lab dinner at [Chef Tan](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf)! We enjoyed all the delicious foods and enjoyed a trivia game hosted by Dr. Lyu! 
+Feb 28 | With the lab's achievements in recent publications, we celebrated through a lab dinner at [Chef Tan](https://www.cheftan558.com/)! We enjoyed all the delicious foods and enjoyed a trivia game hosted by Dr. Lyu! 
 
 <span style="color: #e59f05;">**Fall, 2024**</span>
 
