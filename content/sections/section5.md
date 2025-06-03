@@ -25,7 +25,7 @@ Mar 3 | **Laura Byron**, our PhD student, was awared second place for Rising Sta
 
 Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-scenes content at our research lab. Stay tuned for lab life moments in and outside of research!
 
-Feb 28 | With the lab's acheivements in recent publications, we celebrated through a lab dinner at Chef Tan! We enjoyed all the delicious foods and enjoyed a trivia game hosted by Dr. Lyu! 
+Feb 28 | With the lab's achievements in recent publications, we celebrated through a lab dinner at [Chef Tan](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf)! We enjoyed all the delicious foods and enjoyed a trivia game hosted by Dr. Lyu! 
 
 <span style="color: #e59f05;">**Fall, 2024**</span>
 
@@ -38,7 +38,6 @@ Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.e
 <img src="img/section5-cshl4.jpg" style="max-width: 100%; height:auto;">
 <img src="img/section5-cshl5.jpeg" style="max-width: 100%; height:auto;">
 <img src="img/section5-brooklynbridge.jpeg" style="max-width: 100%; height:auto;">
-<br><br>
 
 Despite the heavy fog, Evie was still able to spot the Statue of Liberty while walking across the Brooklyn Bridge in the best weather ever.
 
@@ -62,7 +61,7 @@ Jun 24 | Summer is officially here! Our lab has collaborated with the new Liu La
 
 Jun 17 | Laura Byron, one of our hardworking graduate students, has passed their qualifying exams and **is now officially a Ph.D. candidate**! Congratulations to Laura! Wishing all our graduate students the best of luck for the rest of their journeys.
 
-![](img/section5-Laura_Byron.jpg)
+<img src="img/section5-Laura_Byron.jpg" style="max-width: 100%; height:auto;">
 
 ** **
 
@@ -70,7 +69,8 @@ Jun 17 | Laura Byron, one of our hardworking graduate students, has passed their
 
 Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Great work, Advaitha!
 
-![](img/section5-pic2.jpg)
+<img src="img/section5-pic2.jpg" style="max-width: 100%; height:auto;">
+
 
 ** **
 
@@ -80,7 +80,7 @@ Apr 2 | We are so proud that Rajat has successfully defended his honor's thesis 
 
 Mar 25 | **Eli accepted into PhD!** - Our former lab tech, Eli James, has been accepted into the PhD program in Ecology and Evolutionary Biology at Texas A&M University. Congratulations, Eli!
 
-![](img/Eli_James.png)
+<img src="img/Eli_James.png" style="max-width: 100%; height:auto;">
 
 ** **
 
@@ -98,7 +98,8 @@ Sep 7 | Nick Pontillo, our first graduate student, has passed his qualifying exa
 
 Aug 9 | Madison presented her research project titled "Protein Perception Modulates Lifespan and Reproduction in *Drosophila*" to RU students and professors alike at the DLS-SURF Research Symposium.  
 
-![](img/section5-pic1.jpg)
+<img src="img/section5-pic1.jpg" style="max-width: 100%; height:auto;">
+
 
 ** **
 
