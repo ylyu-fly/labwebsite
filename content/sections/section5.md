@@ -7,18 +7,21 @@ weight: 6
 
 <span style="color: #e59f05;">**Spring, 2025**</span>
 
-May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **graduated**! We already miss her. She was the one who kept our lab website up and running. The bunny cake is from her final lab meeting presentation, where she shared her semester project exploring whether tiny fruit flies can tell the difference between nutritional sugar and artificial sweeteners!"
-
+May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **graduated**🎓! We already miss her. She was the one who kept our lab website up and running. The bunny cake is from her final lab meeting presentation, where she shared her semester project exploring whether tiny fruit flies can tell the difference between nutritional sugar and artificial sweeteners!
 
 <img src="img/bianca_graduation.jpg" alt="Graduation Cake" style="width:650px; height:auto;">
 
+<br><br>
+
+
 Mar 3 | Laura Byron, one of our PhD students, was awared second place for Rising Star at the Rutgers Conference! Congratulations Laura!!
 
-![](img/section5-lauraconf1.jpg)
+<img src="img/section5-lauraconf1.jpg" alt="" style="width:650px; height:auto;">
 
-![](img/section5-lauraconf2.jpg)
+<img src="img/section5-lauraconf2.jpg" alt="" style="width:650px; height:auto;">
 
-![](img/section5-lauraconf3.jpg)
+<img src="img/section5-lauraconf1.jp3" alt="" style="width:650px; height:auto;">
+
 
 Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-scenes content at our research lab. Stay tuned for lab life moments in and outside of research!
 
