@@ -9,7 +9,7 @@ weight: 6
 
 May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **graduated**🎓! We already miss her. She was the one who kept our lab website up and running. The bunny cake is from her final lab meeting presentation, where she shared her semester project exploring whether tiny fruit flies can tell the difference between nutritional sugar and artificial sweeteners!
 
-<img src="img/bianca_graduation.jpg" style="max-width: 100%; height:auto;">
+<img src="img/section5-bianca_graduation.jpg" style="max-width: 100%; height:auto;">
 
 <br><br>
 
@@ -37,7 +37,7 @@ Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.e
 <img src="img/section5-cshl2.jpg" style="max-width: 100%; height:auto;">
 <img src="img/section5-cshl3.jpg" style="max-width: 100%; height:auto;">
 <img src="img/section5-cshl4.jpg" style="max-width: 100%; height:auto;">
-<img src="img/section5-cshl5.jpg" style="max-width: 100%; height:auto;">
+<img src="img/section5-cshl5.jpeg" style="max-width: 100%; height:auto;">
 <img src="img/section5-brooklynbridge.jpeg" style="max-width: 100%; height:auto;">
 
 Despite the heavy fog, Evie was still able to spot the Statue of Liberty while walking across the Brooklyn Bridge in the best weather ever.
