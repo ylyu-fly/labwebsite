@@ -9,7 +9,7 @@ weight: 6
 
 May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **graduated**🎓! We already miss her. She was the one who kept our lab website up and running. The bunny cake is from her final lab meeting presentation, where she shared her semester project exploring whether tiny fruit flies can tell the difference between nutritional sugar and artificial sweeteners!
 
-<img src="img/bianca_graduation.jpg" alt="Graduation Cake" style="width:650px; height:auto;">
+<img src="img/bianca_graduation.jpg" alt="Graduation Cake" style="max-width: 100%; height:auto;">
 
 <br><br>
 
