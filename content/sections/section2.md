@@ -52,10 +52,6 @@ I graduated from Rutgers University with a major in Molecular Biology and Bioche
 
 I am a Laboratory Technician with a master’s degree in Biochemistry and a bachelor’s degree in chemistry. I possess extensive experience in laboratory techniques, including specimen preparation, media preparation, and various biochemical testing methods. In March 2024, I joined Rutgers Nelson Biology's Driscoll Laboratories, where my work focuses on laboratory techniques for *C. elegans*. In March 2025, I joined Lyu Lab to assist with *Drosophila melanogaster* fly food cooking. Additionally, I have served as an IVF Laboratory Technician in India, where I was involved in media preparation and specimen analysis for reproductive technologies.
 
-<span style="color: #e59f05;">**Rajat Khurana**</span>
-
-Rajat Khurana is a Biology graduate from Rutgers University and joined the Lyu lab in January 2023. In his free time, he's an avid enjoyer of snowboarding, having a season pass at Camelback mountain. He also enjoys the company of his friends, and occasionally plopping down in front of his TV and playing games. He’s worked with fruit flies since 2021, and is excited to see what knowledge he can uncover at his time in the Lyu Lab!
-
 #### Undergraduate Research Assistants
 
 <span style="color: #e59f05;">**Madison Oh**</span>
@@ -83,4 +79,5 @@ I am a first year undergraduate pursuing a major in Cell Biology and Neuroscienc
 **Uchechi Eke (2024, Undergraduate RA)**
 **Will Cappello (2024, Undergraduate RA)**
 **Salvatore Agosta (2024, Undergraduate RA)**
-**Bianca Estores (2023-2025, Undergraduate RA, Lab Website/Board Coordinator) 
+**Rajat Khurana (2023-2024, Undergraduate RA)**
+**Bianca Estores (2023-2025, Undergraduate RA, Lab Website/Board Coordinator)**
