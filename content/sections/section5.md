@@ -17,11 +17,8 @@ May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **gradu
 Mar 3 | Laura Byron, one of our PhD students, was awared second place for Rising Star at the Rutgers Conference! Congratulations Laura!!
 
 <img src="img/section5-lauraconf1.jpg" style="max-width: 100%; height:auto;">
-
 <img src="img/section5-lauraconf2.jpg" style="max-width: 100%; height:auto;">
-
 <img src="img/section5-lauraconf3.jpg" style="max-width: 100%; height:auto;">
-
 <br><br>
 
 Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-scenes content at our research lab. Stay tuned for lab life moments in and outside of research!
@@ -39,19 +36,25 @@ Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.e
 <img src="img/section5-cshl4.jpg" style="max-width: 100%; height:auto;">
 <img src="img/section5-cshl5.jpeg" style="max-width: 100%; height:auto;">
 <img src="img/section5-brooklynbridge.jpeg" style="max-width: 100%; height:auto;">
+<br><br>
 
 Despite the heavy fog, Evie was still able to spot the Statue of Liberty while walking across the Brooklyn Bridge in the best weather ever.
 
+<br><br>
 
 <span style="color: #e59f05;">**Summer, 2024**</span>
 
 Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients)!!
 
-![](img/section5-afar.png)
+<img src="img/section5-afar.png" style="max-width: 100%; height:auto;">
+
+<br><br>
 
 Jun 24 | Summer is officially here! Our lab has collaborated with the new Liu Lab in CABM through a BBQ & picnic at Johnson Park! Here's to more afternoons filled with good food, fun games, collaboration, and enjoying the outdoors together! 
 
-![](img/section5-labpicnic.jpg)
+<img src="img/section5-labpicnic.jpg" style="max-width: 100%; height:auto;">
+
+<br><br>
 
 ** **
 
