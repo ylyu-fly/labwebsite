@@ -62,10 +62,6 @@ Rajat Khurana is a Biology graduate from Rutgers University and joined the Lyu l
 
 I am a third year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
 
-<span style="color: #e59f05;">**Bianca Estores**</span>
-
-I am a fourth year undergraduate student pursuing a major in Cell Biology and Neuroscience as well as a minor in Cognitive Science. I joined the Lyu Lab in Fall 2023 with hopes of learning more about cognitive behaviors and complex brain systems in smaller species such as *Drosophila* to get a better understanding of the human brain. During my free time, I enjoy doing physical activities such as lifting, climbing, and sports, as well as doing more leisurely activities such as singing, playing the guitar, gaming, and making arts.
-
 <span style="color: #e59f05;">**Jinhu Chung**</span>
 
 I am a second year undergraduate student studying Biomedical Engineering specializing in Tissue Engineering and Biomolecular Engineering. I joined Lyu Lab in the summer of 2024 and am excited to implement optogenetics and systems such as GAL4-UAS to assess the effects of feeding behavior and life expectancy. Outside of the lab I play for Rutgers Machine Ultimate and travel across the east coast competing against other schools.
@@ -87,3 +83,4 @@ I am a first year undergraduate pursuing a major in Cell Biology and Neuroscienc
 **Uchechi Eke (2024, Undergraduate RA)**
 **Will Cappello (2024, Undergraduate RA)**
 **Salvatore Agosta (2024, Undergraduate RA)**
+**Bianca Estores (2023-2025, Undergraduate RA, Lab Website/Board Coordinator) 
