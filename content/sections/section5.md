@@ -20,8 +20,9 @@ Mar 3 | Laura Byron, one of our PhD students, was awared second place for Rising
 
 <img src="img/section5-lauraconf2.jpg" alt="" style="width:650px; height:auto;">
 
-<img src="img/section5-lauraconf1.jp3" alt="" style="width:650px; height:auto;">
+<img src="img/section5-lauraconf3.jpg" alt="" style="width:650px; height:auto;">
 
+<br><br>
 
 Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-scenes content at our research lab. Stay tuned for lab life moments in and outside of research!
 
