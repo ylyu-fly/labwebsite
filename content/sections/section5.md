@@ -16,7 +16,7 @@ May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **gradu
 May 5 | Huge congrats to our undergrad **Madison Oh** for receiving the [DLS-SURF Fellowship](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf) again, after two years! 
 
 
-Mar 3 | **Laura Byron**, our PhD student, was awared second place for Rising Star at the Rutgers Conference! Congratulations Laura!!
+Mar 3 | **Laura Byron**, our PhD student, was awarded second place for Rising Star at the Rutgers Conference! Congratulations Laura!!
 
 <img src="img/section5-lauraconf1.jpg" style="max-width: 100%; height:auto;">
 <img src="img/section5-lauraconf2.jpg" style="max-width: 100%; height:auto;">
