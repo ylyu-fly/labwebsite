@@ -18,9 +18,13 @@ Outside my research, I always have a good time exploring mountains and local res
 
 Teaching: 
 
-+ Biology of Aging (694:421) Co-taught with Dr. Monica Driscoll — Spring 2024, Fall 2025
++ Biology of Aging (694:421)
   
-+ Introductory Computational Biology (694:390) Co-taught with Dr. Mikel Zaratiegui and Dr. Sam Gu — Spring 2025
+   Co-taught with Dr. Monica Driscoll — Spring 2024, Fall 2025
+  
++ Introductory Computational Biology (694:390)
+  
+   Co-taught with Dr. Mikel Zaratiegui and Dr. Sam Gu — Spring 2025
 
 
 
