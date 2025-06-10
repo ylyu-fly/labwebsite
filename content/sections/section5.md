@@ -5,10 +5,7 @@ weight: 6
 
 ## Lab News
 
-Jun 9 | test
-
-<img src="img/section5-bianca_graduation.jpg" style="max-width: 100%; height:auto;">
-
+<span style="color: #e59f05;">**Summer, 2025**</span>
 
 <span style="color: #e59f05;">**Spring, 2025**</span>
 
