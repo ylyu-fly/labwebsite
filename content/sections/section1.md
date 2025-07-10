@@ -5,13 +5,13 @@ weight: 2
 
 ## What We Care About
 
-We care about curiosity over certainty, depth over speed, and building science that feels both rigorous and alive.
+We care about curiosity, depth, and building science that feels both rigorous and alive.
 
 We believe that meaningful discoveries come not only from sharp thinking, but from the patience to notice subtle patterns, the humility to sit with uncertainty, and the courage to ask better questions.
 
 Our lab is a space for careful work, honest conversations, and research that honors both complexity and clarity. We value presence, wonder, and the quiet satisfaction of seeing something invisible become knowable.
 
-## Our Research
+## Our Work
 
 Using the fruit fly *Drosophila melanogaster*, we study the cells and molecular pathways that maintain the healthy state of animals throughout their life course, and how these biological processes are influenced by environmental conditions and social opportunities. Our work aims to provide conceptual and mechanistic insights into contemporary challenges to human health.
 
