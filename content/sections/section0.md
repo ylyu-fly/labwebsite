@@ -6,6 +6,6 @@ improvecontrast: true
 
 # LYU LAB
 
-Sensation, Signal, Survival
+<p align="center">Sensation, Signal, Survival</p>
 
-We study how the brain transforms sensation into signals that shape the trajectory of aging—and the possibility of health.
+<p style="font-size:14px; align="center">We study how the brain transforms sensation into signals that shape the trajectory of aging—and the possibility of health.</p>
