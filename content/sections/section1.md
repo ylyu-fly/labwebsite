@@ -9,7 +9,7 @@ We care about curiosity, depth, and building science that feels both rigorous an
 
 We believe that meaningful discoveries come not only from sharp thinking, but from the patience to notice subtle patterns, the humility to sit with uncertainty, and the courage to ask better questions.
 
-Our lab is a space for careful work, honest conversations, and research that honors both complexity and clarity. We value presence, wonder, and the quiet satisfaction of seeing something invisible become knowable.
+Our lab is a space for careful work, honest conversations, and research that cherishes both complexity and clarity. We value presence, wonder, and the quiet satisfaction of seeing something invisible become knowable.
 
 ## Our Work
 
