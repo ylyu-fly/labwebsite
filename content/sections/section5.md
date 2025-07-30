@@ -11,6 +11,7 @@ July 2 | Our lab returns with the traditional summer BBQ & picnic! This year at 
 
 <img src="img/section5-july_cheesequake.jpg" style="max-width: 100%; height:auto;">
 
+<br>
 
 <span style="color: #e59f05;">**Spring, 2025**</span>
 
