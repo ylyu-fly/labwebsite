@@ -11,6 +11,7 @@ July 2 | Our lab returns with the traditional summer BBQ & picnic! This year at 
 
 <img src="img/section5-july_cheesequake.jpg" style="max-width: 100%; height:auto;">
 
+
 <span style="color: #e59f05;">**Spring, 2025**</span>
 
 May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **graduated**🎓! We already miss her. She was the one who kept our lab website up and running. The bunny cake is from her final lab meeting presentation, where she shared her semester project exploring whether tiny fruit flies can tell the difference between nutritional sugar and artificial sweeteners!
