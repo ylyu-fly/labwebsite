@@ -9,7 +9,9 @@ weight: 6
 
 September 1 | Upon Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air did well to cool the nerves before the start of the new fall semester!
 
-
+<img src="img/section5-hacklebarney1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="img/section5-hacklebarney2.jpg" width="45%">
 
 August 7 | Madison presenting at the summer symposium hosted by DLS-SURF!
 
