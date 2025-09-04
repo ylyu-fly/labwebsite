@@ -7,6 +7,8 @@ weight: 6
 
 <span style="color: #e59f05;">**Summer, 2025**</span>
 
+August 7 | Madison presenting at the summer symposium hosted by DLS-SURF!
+
 July 2 | Our lab returns with the traditional summer BBQ & picnic! This year at the Cheesequake State Park, we teamed up with the [Cuesta Lab](https://www.cuestalab.com/) for an afternoon of snacking, chatting, and frisbee tossing (just watch out for the mosquitoes)!
 
 <img src="img/section5-july_cheesequake.jpg" style="max-width: 100%; height:auto;">
