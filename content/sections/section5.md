@@ -13,6 +13,8 @@ September 1 | Upon Labor Day, the lab embarked on a hike at Hacklebarney State P
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="img/section5-hacklebarney2.jpg" width="45%">
 
+<br><br>
+
 August 7 | Madison presenting at the summer symposium hosted by DLS-SURF!
 
 <img src="img/section5-madison_poster.jpg" style="max-width: 100%; height:auto;">
