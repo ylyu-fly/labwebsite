@@ -7,7 +7,15 @@ weight: 6
 
 <span style="color: #e59f05;">**Summer, 2025**</span>
 
+September 1 | Upon Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air did well to cool the nerves before the start of the new fall semester!
+
+
+
 August 7 | Madison presenting at the summer symposium hosted by DLS-SURF!
+
+<img src="img/section5-madison_poster.jpg" style="max-width: 100%; height:auto;">
+
+<br><br>
 
 July 2 | Our lab returns with the traditional summer BBQ & picnic! This year at the Cheesequake State Park, we teamed up with the [Cuesta Lab](https://www.cuestalab.com/) for an afternoon of snacking, chatting, and frisbee tossing (just watch out for the mosquitoes)!
 
