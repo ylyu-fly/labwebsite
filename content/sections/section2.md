@@ -44,7 +44,9 @@ Born and raised in Kuala Lumpur, Malaysia, I developed an early interest in agin
 
 #### Lab Technicians
 
-<span style="color: #e59f05;">**Joel Villa (Lab Manager)**</span>
+<span style="color: #e59f05;">**Yeyoung Kim (Lab Manager)**</span>
+
+<span style="color: #e59f05;">**Joel Villa**</span>
 
 I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Rutgers University - New Brunswick. Throughout my life, I have always been intrigued by the brain's many mechanisms and behaviors that affect the body. I have previously researched "Asymmetric Cerebral Atrophy of the Temporal Lobe" while participating in a program at Rowan University School of Osteopathic Medicine. I joined the Lyu lab near the beginning of 2023 and hope to use the knowledge and skills from my previous experiences to contribute to this research. On my free time, I enjoy reading various genres of books but mostly true-crime novels. I also enjoy listening to music, especially Ginger Root.
 
