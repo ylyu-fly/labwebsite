@@ -48,10 +48,6 @@ Born and raised in Kuala Lumpur, Malaysia, I developed an early interest in agin
 
 I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Rutgers University - New Brunswick. Throughout my life, I have always been intrigued by the brain's many mechanisms and behaviors that affect the body. I have previously researched "Asymmetric Cerebral Atrophy of the Temporal Lobe" while participating in a program at Rowan University School of Osteopathic Medicine. I joined the Lyu lab near the beginning of 2023 and hope to use the knowledge and skills from my previous experiences to contribute to this research. On my free time, I enjoy reading various genres of books but mostly true-crime novels. I also enjoy listening to music, especially Ginger Root.
 
-<span style="color: #e59f05;">**Advaitha Kamalakkannan**</span>
-
-I graduated from Rutgers University with a major in Molecular Biology and Biochemistry. With prior experience in chemistry-related research, I am excited to learn about experimentation methods in a biological lab as well as understand the biology of aging and its role in the health and longevity of *Drosophila*. Outside of science, my hobbies include dancing, reading, and running– with the advent of covid, hiking has been a newfound interest of mine.
-
 <span style="color: #e59f05;">**Thara Nair**</span>
 
 I am a Laboratory Technician with a master’s degree in Biochemistry and a bachelor’s degree in chemistry. I possess extensive experience in laboratory techniques, including specimen preparation, media preparation, and various biochemical testing methods. In March 2024, I joined Rutgers Nelson Biology's Driscoll Laboratories, where my work focuses on laboratory techniques for *C. elegans*. In March 2025, I joined Lyu Lab to assist with *Drosophila melanogaster* fly food cooking. Additionally, I have served as an IVF Laboratory Technician in India, where I was involved in media preparation and specimen analysis for reproductive technologies.
@@ -85,3 +81,4 @@ I am a first year undergraduate pursuing a major in Cell Biology and Neuroscienc
 **Salvatore Agosta (2024, Undergraduate RA)**
 **Rajat Khurana (2023-2024, Undergraduate RA)**
 **Bianca Estores (2023-2025, Undergraduate RA, Lab Website/Board Coordinator)**
+**Advaitha Kamalakkannan (2023-2025, Undergraduate RA)**
