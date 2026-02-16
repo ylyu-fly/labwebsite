@@ -9,15 +9,19 @@ weight: 6
 
 February 6 | Congrats to Madison for representing our lab at the Really Awesome Data Discussion!
 
+<img src="img/section5-radd1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="img/section5-radd2.jpg" width="45%">
+
 <br><br>
 
 <span style="color: #e59f05;">**Fall, 2025**</span>
 
 December 11 | The lab enjoyed dinner at Meximodo in Metuchen! Check out the baby back pork ribs that Justin ordered!
 
-<img src="img/section5-meximodo.jpg" width="60%">
+<img src="img/section5-meximodo.jpg" width="50%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="img/section5-ribs.jpg" width="30%">
+<img src="img/section5-ribs.jpg" width="40%">
 
 <br><br>
 
