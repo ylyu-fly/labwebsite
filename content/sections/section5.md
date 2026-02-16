@@ -5,9 +5,21 @@ weight: 6
 
 ## Lab News
 
+<span style="color: #e59f05;">**Spring, 2026**</span>
+
+February 6 | Congrats to Madison for representing our lab at the Really Awesome Data Discussion!
+
+<br><br>
+
+<span style="color: #e59f05;">**Fall, 2025**</span>
+
+December 11 | The lab enjoyed dinner at Meximodo in Metuchen! Check out the baby back pork ribs that Justin ordered!
+
+<br><br>
+
 <span style="color: #e59f05;">**Summer, 2025**</span>
 
-September 1 | Upon Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air did well to cool the nerves before the start of the new fall semester!
+September 1 | Upon Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air helped cool the nerves before the start of the new fall semester!
 
 <img src="img/section5-hacklebarney1.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
