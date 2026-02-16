@@ -15,11 +15,15 @@ February 6 | Congrats to Madison for representing our lab at the Really Awesome 
 
 December 11 | The lab enjoyed dinner at Meximodo in Metuchen! Check out the baby back pork ribs that Justin ordered!
 
+<img src="img/section5-meximodo.jpg" width="60%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="img/section5-ribs.jpg" width="30%">
+
 <br><br>
 
 <span style="color: #e59f05;">**Summer, 2025**</span>
 
-September 1 | Upon Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air helped cool the nerves before the start of the new fall semester!
+September 1 | On Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air helped cool the nerves before the start of the new fall semester!
 
 <img src="img/section5-hacklebarney1.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
