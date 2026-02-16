@@ -67,7 +67,7 @@ I am a second year undergraduate student studying Biomedical Engineering special
 
 <span style="color: #e59f05;">**Anton Misirpashayev**</span>
 
-I joined the Lyu Lab during the spring of 2025, and I am aiming for a major in Cell Biology and Neuroscience. My main goal in the lab is to better understand neurodegeneration and the underlying molecular mechanisms. My life outside of the lab can largely be summed up with playing and listening to music (usually classical and progressive rock), computer gaming, language learning, and most recently, reading sci-fi novels.
+I joined the Lyu Lab during the spring of 2025, and I am aiming for a major in Cell Biology and Neuroscience. My main goal in the lab is to better understand neurodegeneration and the underlying molecular mechanisms. I love playing and listening to music (usually classical and progressive rock), computer gaming, language learning, reading sci-fi novels, and exercising!
 
 <span style="color: #e59f05;">**Aditya Tripathi**</span>
 
