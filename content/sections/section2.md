@@ -73,6 +73,14 @@ I joined the Lyu Lab during the spring of 2025, and I am aiming for a major in C
 
 I am a first year undergraduate pursuing a major in Cell Biology and Neuroscience and a double minor in Nutrition and Psychology. I joined Lyu Lab in the spring of 2025 with the hopes of learning more about how smaller Drosophila models can enhance current understanding of neurodegenerative disease progression. My hobbies outside of academics are wrestling, lifting and gaming. I am also currently learning to program!
 
+<span style="color: #e59f05;">**Jayden Chiang**</span>
+
+I’m a second year undergraduate majoring in Cell Biology and Neuroscience. I joined the Lyu Lab in Fall 2025 and I am enjoying learning about Drosophila and neurodegeneration. In my free time I enjoy calisthenics, playing cello, and reading manhwa.
+
+<span style="color: #e59f05;">**Stephen Hum**</span>
+
+I am a first year student majoring in Biochemistry and minoring in Public Health in the Honors College. I joined the Lyu Lab in the fall of 2025 to better understand the biochemical and pathophysiological mechanisms of neurodegenerative disorders. In my free time, I enjoy running, watching sports, and playing the piano.
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
