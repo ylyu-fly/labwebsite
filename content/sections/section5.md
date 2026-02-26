@@ -25,6 +25,8 @@ December 11 | The lab enjoyed dinner at Meximodo in Metuchen! Check out the baby
 
 <br><br>
 
+November 17 | Huge congrats to two of our former undergraduate research assistants for getting into med school!!  Advaitha Kamalakkannan has committed to NJMS, and Bianco Estores will be attending the Rowan-Virtua School of Osteopathic Medicine.  We wish you two the best of luck on your future careers!
+
 <span style="color: #e59f05;">**Summer, 2025**</span>
 
 September 1 | On Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air helped cool the nerves before the start of the new fall semester!
