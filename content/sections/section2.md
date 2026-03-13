@@ -81,6 +81,10 @@ I’m a second year undergraduate majoring in Cell Biology and Neuroscience. I j
 
 I am a first year student majoring in Biochemistry and minoring in Public Health in the Honors College. I joined the Lyu Lab in the fall of 2025 to better understand the biochemical and pathophysiological mechanisms of neurodegenerative disorders. In my free time, I enjoy running, watching sports, and playing the piano.
 
+<span style="color: #e59f05;">**Ishaan Aryan**</span>
+
+Hey, I'm Ishaan, a first-year undergrad at Rutgers University majoring in Biology! I'm particularly interested in how genetic variations can be studied and applied to disease mechanisms for broader applications on improving human health outcomes. I plan to pursue medical school and hope to integrate research into my future career as a physician, with long-term interests in academic medicine and publishing impactful research. Outside of the lab, I enjoy staying active such as going on long runs or the gym, I love listening to good music, and enjoy spending time with friends and family.
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
