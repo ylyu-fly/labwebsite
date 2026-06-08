@@ -9,6 +9,8 @@ weight: 6
 
 April 17 | Congrats to Anton for presenting his research at the Life Sciences Undergraduate Research Conference!
 
+<img src="img/section5-anton-dls-conference.jpg" style="max-width: 100%; height:auto;">
+
 <br><br>
 
 April 14 | Today we unfortunately have to say farewell to Joel Villa, our esteemed lab technician, as he transitions to a second degree program at the Rutgers-School of Health Professions in Newark. He was a valuable member of the research team, a wonderful instructor to the undergraduates, and a great person to talk to. Best of luck to your future!!
@@ -16,6 +18,8 @@ April 14 | Today we unfortunately have to say farewell to Joel Villa, our esteem
 <br><br>
 
 April 2 | Huge congrats to Madison for successfully defending her honors thesis! It was a long journey, but you finally made it through! Cheers!!
+
+<img src="img/section5-madison-thesis-party.jpg" style="max-width: 100%; height:auto;">
 
 <br><br>
 
