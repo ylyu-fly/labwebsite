@@ -7,6 +7,18 @@ weight: 6
 
 <span style="color: #e59f05;">**Spring, 2026**</span>
 
+April 17 | Congrats to Anton for presenting his research at the Life Sciences Undergraduate Research Conference!
+
+<br><br>
+
+April 14 | Today we unfortunately have to say farewell to Joel Villa, our esteemed lab technician, as he transitions to a second degree program at the Rutgers-School of Health Professions in Newark. He was a valuable member of the research team, a wonderful instructor to the undergraduates, and a great person to talk to. Best of luck to your future!!
+
+<br><br>
+
+April 2 | Huge congrats to Madison for successfully defending her honors thesis! It was a long journey, but you finally made it through! Cheers!!
+
+<br><br>
+
 February 6 | Congrats to Madison for representing our lab at the Really Awesome Data Discussion!
 
 <img src="img/section5-radd1.jpg" width="45%">
@@ -17,7 +29,7 @@ February 6 | Congrats to Madison for representing our lab at the Really Awesome 
 
 <span style="color: #e59f05;">**Fall, 2025**</span>
 
-December 11 | The lab enjoyed dinner at Meximodo in Metuchen! Check out the baby back pork ribs that Justin ordered!
+December 11 | The lab enjoyed dinner at Meximodo in Metuchen!
 
 <img src="img/section5-meximodo.jpg" width="50%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -25,7 +37,7 @@ December 11 | The lab enjoyed dinner at Meximodo in Metuchen! Check out the baby
 
 <br><br>
 
-November 17 | Huge congrats to two of our former undergraduate research assistants for getting into med school!!  Advaitha Kamalakkannan has committed to NJMS, and Bianco Estores will be attending the Rowan-Virtua School of Osteopathic Medicine.  We wish you two the best of luck on your future careers!
+November 17 | Huge congrats to two of our former undergraduate research assistants for getting into med school!! Advaitha Kamalakkannan has committed to NJMS, and Bianco Estores will be attending the Rowan-Virtua School of Osteopathic Medicine. We wish you two the best of luck on your future careers!
 
 <span style="color: #e59f05;">**Summer, 2025**</span>
 
