@@ -9,6 +9,8 @@ weight: 6
 
 May 20 | Today Justin presented at the last Fly Club meeting of the semester! Way to go!
 
+<img src="img/section5-justin-flyclub-2026.jpg" style="max-width: 100%; height:auto;">
+
 <br><br>
 
 April 17 | Congrats to Anton for presenting his research at the Life Sciences Undergraduate Research Conference!
