@@ -11,7 +11,7 @@ August 6 | We are happy to commemorate three of our undergrads for presenting th
 
 <img src="img/section5-jayden-dls-surf.jpg" width="20%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="img/section5-aditya-csi-surf.jpg" width="50%">
+<img src="img/section5-aditya-csi-surf.jpg" width="40%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="img/section5-anton-dls-surf.jpg" width="20%">
 
