@@ -5,7 +5,19 @@ weight: 6
 
 ## Lab News
 
-<span style="color: #e59f05;">**Spring, 2026**</span>
+<span style="color: #e59f05;">**Summer 2026**</span>
+
+August 6 | We are happy to commemorate three of our undergrads for presenting their summer projects at the SURF conferences! Both Jayden (left) and Anton (right) presented their research at the DLS-SURF symposium while Aditya (middle) presented at the CSI-SURF Symposium!
+
+<img src="img/section5-jayden-dls-surf.jpg" width="20%"
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="img/section5-aditya-csi-surf.jpg" width="50%"
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="img/section5-anton-dls-surf.jpg" width="20%"
+
+<br><br>
+
+<span style="color: #e59f05;">**Spring 2026**</span>
 
 May 20 | Today Justin presented at the last Fly Club meeting of the semester! Way to go!
 
@@ -19,7 +31,7 @@ April 17 | Congrats to Anton for presenting his research at the Life Sciences Un
 
 <br><br>
 
-April 14 | Today we unfortunately have to say farewell to Joel Villa, our esteemed lab technician, as he transitions to a second degree program at the Rutgers-School of Health Professions in Newark. He was a valuable member of the research team, a wonderful instructor to the undergraduates, and a great person to talk to. Best of luck to your future!!
+April 14 | Today we unfortunately have to say farewell to Joel Villa, our esteemed lab technician, as he transitions to a second degree program at the Rutgers-School of Health Professions in Newark. He was a valuable member of the research team, a wonderful instructor to the undergraduates, and a great person to talk to. Best of luck!!
 
 <br><br>
 
@@ -37,7 +49,7 @@ February 6 | Congrats to Madison for representing our lab at the Really Awesome 
 
 <br><br>
 
-<span style="color: #e59f05;">**Fall, 2025**</span>
+<span style="color: #e59f05;">**Fall 2025**</span>
 
 December 11 | The lab enjoyed dinner at Meximodo in Metuchen!
 
@@ -49,7 +61,7 @@ December 11 | The lab enjoyed dinner at Meximodo in Metuchen!
 
 November 17 | Huge congrats to two of our former undergraduate research assistants for getting into med school!! Advaitha Kamalakkannan has committed to NJMS, and Bianco Estores will be attending the Rowan-Virtua School of Osteopathic Medicine. We wish you two the best of luck on your future careers!
 
-<span style="color: #e59f05;">**Summer, 2025**</span>
+<span style="color: #e59f05;">**Summer 2025**</span>
 
 September 1 | On Labor Day, the lab embarked on a hike at Hacklebarney State Park. Skipping stones and taking in the fresh air helped cool the nerves before the start of the new fall semester!
 
@@ -71,7 +83,7 @@ July 2 | Our lab returns with the traditional summer BBQ & picnic! This year at 
 
 <br><br>
 
-<span style="color: #e59f05;">**Spring, 2025**</span>
+<span style="color: #e59f05;">**Spring 2025**</span>
 
 May 18 | Our first CBN undergraduate, **Bianca Estores**, has officially **graduated**🎓! We already miss her. She was the one who kept our lab website up and running. The bunny cake is from her final lab meeting presentation, where she shared her semester project exploring whether tiny fruit flies can tell the difference between nutritional sugar and artificial sweeteners!
 
@@ -93,7 +105,7 @@ Mar 1 | Our lab is now on TikTok! 🎥🧪 Follow us [@lyulab] for behind-the-sc
 
 Feb 28 | With the lab's achievements in recent publications, we celebrated through a lab dinner at [Chef Tan](https://www.cheftan558.com/)! We enjoyed all the delicious foods and enjoyed a trivia game hosted by Dr. Lyu! 
 
-<span style="color: #e59f05;">**Fall, 2024**</span>
+<span style="color: #e59f05;">**Fall 2024**</span>
 
 Sep 24-28 | Our lab attended our first [CSHL conference](https://meetings.cshl.edu/meetings.aspx?meet=aging&year=24), where we presented our research, enjoyed great food, and had many good conversations!
 
@@ -109,7 +121,7 @@ Despite the heavy fog, Evie was still able to spot the Statue of Liberty while w
 
 <br><br>
 
-<span style="color: #e59f05;">**Summer, 2024**</span>
+<span style="color: #e59f05;">**Summer 2024**</span>
 
 Jul 1 | Our proposal, utilizing optogenetics to explore how motivation and reward systems influence longevity, has been awarded by [the American Federation for Aging Research](https://www.afar.org/2024-grant-recipients)!!
 
@@ -131,7 +143,7 @@ Jun 17 | Laura Byron, one of our hardworking graduate students, has passed their
 
 ** **
 
-<span style="color: #e59f05;">**Spring, 2024**</span>
+<span style="color: #e59f05;">**Spring 2024**</span>
 
 Apr 29 | Advaitha presented her poster "Stochastic Effects on Dietary Restriction-Mediated Lifespan Outcomes in *Drosophila melanogaster*" at the Molecular Biology and Biochemistry Undergraduate Ceremony. She is planning to graduate this coming January. Great work, Advaitha!
 
@@ -150,13 +162,13 @@ Mar 25 | **Eli accepted into PhD!** - Our former lab tech, Eli James, has been a
 
 ** **
 
-<span style="color: #e59f05;">**Fall, 2023**</span>
+<span style="color: #e59f05;">**Fall 2023**</span>
 
 Oct 9 | Welcome our new undergraduate research assistant Bianca, to the Lyu lab! Our lab is growing bigger and bigger.
 
 ** **
 
-<span style="color: #e59f05;">**Summer, 2023**</span>
+<span style="color: #e59f05;">**Summer 2023**</span>
 
 Sep 7 | Nick Pontillo, our first graduate student, has passed his qualifying exams and is now officially a Ph.D. candidate. Congratulations, Nick!
 
@@ -173,6 +185,6 @@ Jun 21 | This summer marked the inaugural Lyu Lab Flympics - an event already de
 
 ** **
 
-<span style="color: #e59f05;">**Spring, 2023**</span>
+<span style="color: #e59f05;">**Spring 2023**</span>
 
 May 1 | Madison was awarded the [DLS Summer Undergraduate Research Fellowship](https://biology.rutgers.edu/biological-sciences/fellowships-and-awards/dls-surf)!! CONGRATULATIONS Madison!
