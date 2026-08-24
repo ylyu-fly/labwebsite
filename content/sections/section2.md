@@ -47,27 +47,19 @@ Born and raised in Kuala Lumpur, Malaysia, I developed an early interest in agin
 
 <span style="color: #e59f05;">**Yeyoung Kim (Lab Manager)**</span>
 
-<span style="color: #e59f05;">**Joel Villa**</span>
-
-I am an EOF graduate and received my B.A. in Biological Sciences in 2021 from Rutgers University - New Brunswick. Throughout my life, I have always been intrigued by the brain's many mechanisms and behaviors that affect the body. I have previously researched "Asymmetric Cerebral Atrophy of the Temporal Lobe" while participating in a program at Rowan University School of Osteopathic Medicine. I joined the Lyu lab near the beginning of 2023 and hope to use the knowledge and skills from my previous experiences to contribute to this research. On my free time, I enjoy reading various genres of books but mostly true-crime novels. I also enjoy listening to music, especially Ginger Root.
-
 <span style="color: #e59f05;">**Thara Nair**</span>
 
 I am a Laboratory Technician with a master’s degree in Biochemistry and a bachelor’s degree in chemistry. I possess extensive experience in laboratory techniques, including specimen preparation, media preparation, and various biochemical testing methods. In March 2024, I joined Rutgers Nelson Biology's Driscoll Laboratories, where my work focuses on laboratory techniques for *C. elegans*. In March 2025, I joined Lyu Lab to assist with *Drosophila melanogaster* fly food cooking. Additionally, I have served as an IVF Laboratory Technician in India, where I was involved in media preparation and specimen analysis for reproductive technologies.
 
 #### Undergraduate Research Assistants
 
-<span style="color: #e59f05;">**Madison Oh**</span>
+<span style="color: #e59f05;">**Anton Misirpashayev**</span>
 
-I am a third year student pursuing a biological sciences major in the Honors College, with the hopes of attending medical school. Although I am mostly interested in the human body, I believe that studying smaller life forms like *Drosophila* will lead to better understanding of our more complex systems. In contrast to my interest in science, all my hobbies are related to art, such as drawing, watching cartoons, and recently, learning the guitar.
+I joined the Lyu Lab in January 2025 and I am aiming for a major in Cell Biology and Neuroscience. My main goal in the lab is to better understand the role of uncharacterized solute transporters, their molecular mechanisms on different diets, and their possible connections with neurodegeneration. I love playing and listening to music (usually classical and progressive rock), computer gaming, language learning, reading sci-fi novels, and exercising!
 
 <span style="color: #e59f05;">**Jinhu Chung**</span>
 
 I am a second year undergraduate student studying Biomedical Engineering specializing in Tissue Engineering and Biomolecular Engineering. I joined Lyu Lab in the summer of 2024 and am excited to implement optogenetics and systems such as GAL4-UAS to assess the effects of feeding behavior and life expectancy. Outside of the lab I play for Rutgers Machine Ultimate and travel across the east coast competing against other schools.
-
-<span style="color: #e59f05;">**Anton Misirpashayev**</span>
-
-I joined the Lyu Lab during the spring of 2025, and I am aiming for a major in Cell Biology and Neuroscience. My main goal in the lab is to better understand neurodegeneration and the underlying molecular mechanisms. I love playing and listening to music (usually classical and progressive rock), computer gaming, language learning, reading sci-fi novels, and exercising!
 
 <span style="color: #e59f05;">**Aditya Tripathi**</span>
 
@@ -85,10 +77,15 @@ I am a first year student majoring in Biochemistry and minoring in Public Health
 
 Hey, I'm Ishaan, a first-year undergrad at Rutgers University majoring in Biology! I'm particularly interested in how genetic variations can be studied and applied to disease mechanisms for broader applications on improving human health outcomes. I plan to pursue medical school and hope to integrate research into my future career as a physician, with long-term interests in academic medicine and publishing impactful research. Outside of the lab, I enjoy staying active such as going on long runs or the gym, I love listening to good music, and enjoy spending time with friends and family.
 
+<span style="color: #e59f05;">**Matthew Chong**</span>
+
+I am a second year undergraduate student studying Molecular Biology and Biochemistry. I joined Lyu Lab in February 2026 and I am enjoying my progress in learning more about factors (e.g. smell) that influence lifespan. When I'm not in the lab, you can find me outside going on a jog, playing basketball or reading Webtoons.
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
 **Tim Qi (2023, Lab Tech)**
+**Joel Villa (2026, Lab Tech)**
 **Selin Altunyay (2024, Undergraduate RA)**
 **Wesley Wu (2024, Undergraduate RA)**
 **Uchechi Eke (2024, Undergraduate RA)**
@@ -97,3 +94,4 @@ Hey, I'm Ishaan, a first-year undergrad at Rutgers University majoring in Biolog
 **Rajat Khurana (2023-2024, Undergraduate RA)**
 **Bianca Estores (2023-2025, Undergraduate RA, Lab Website/Board Coordinator)**
 **Advaitha Kamalakkannan (2023-2025, Undergraduate RA)**
+**Madison Oh (2022-2026, Undergraduate RA)**
