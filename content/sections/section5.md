@@ -9,7 +9,7 @@ weight: 6
 
 August 6 | We are happy to commemorate three of our undergrads for presenting their summer projects at the SURF conferences! Both Jayden (bottom left) and Anton (bottom right) presented their research at the DLS-SURF symposium while Aditya (top) presented at the CSI-SURF Symposium!
 
-<img src="img/section5-aditya-csi-surf.jpg" style="margin-bottom: 20px; max-width: 100%; height:auto;">
+<img src="img/section5-aditya-csi-surf.jpg" style="margin-bottom: 10px; max-width: 100%; height:auto;">
 <img src="img/section5-jayden-dls-surf.jpg" width="45%">
 &thinsp;
 <img src="img/section5-anton-dls-surf.jpg" width="45%">
