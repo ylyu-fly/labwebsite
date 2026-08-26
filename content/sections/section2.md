@@ -81,6 +81,10 @@ Hey, I'm Ishaan, a first-year undergrad at Rutgers University majoring in Biolog
 
 I am a second year undergraduate student studying Molecular Biology and Biochemistry. I joined Lyu Lab in February 2026 and I am enjoying my progress in learning more about factors (e.g. smell) that influence lifespan. When I'm not in the lab, you can find me outside going on a jog, playing basketball or reading Webtoons.
 
+<span style="color: #e59f05;">**Sai Sankpal**</span>
+
+I’m a second year undergraduate student majoring in Cell Biology and Neuroscience with a minor in Cognitive Science. I joined Lyu Lab spring of 2026. I’m curious to learn more about how serotonin signalling, more specifically, the 5-HT2A receptor affects aging in Drosophila. I love dancing, painting, and reading classic literature!
+
 #### Alumni
 
 **Eli James (2023, Lab Tech)**
